@@ -1,0 +1,19 @@
+{
+    "name": "InfoEnter/mvc",
+    "require":{
+        "php":">=5.6" 
+    },
+    "authors":[
+      { 
+          "name":"Fernando Britto",
+          "email":"me@fernandobritto.com.br"
+      }
+    
+    ],
+    "autoload":{
+        "psr-4":{
+            "InfoEnter\\":"vendor/InfoEnter/",
+            "App\\":"App/"
+        }
+    }
+}
