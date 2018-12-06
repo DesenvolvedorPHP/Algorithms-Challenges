@@ -1,5 +1,5 @@
 {
-    "name": "InfoEnter/mvc",
+    "name": "BrasilWeb/mvc",
     "require":{
         "php":">=5.6" 
     },
