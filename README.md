@@ -1,2 +1,3 @@
-# Arquitetura-MVC
-Padrão de arquitetura MVC
+# Arquitetura PHPUnit
+
+> The PHP Testing Framework
