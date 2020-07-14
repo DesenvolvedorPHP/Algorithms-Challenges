@@ -1,3 +1,3 @@
-# Arquitetura PHPUnit
+# Algorithms Challenges
 
-> The PHP Testing Framework
+> :pencil: PHP programming languages :ballot_box_with_check:
